@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "wch-usb-uart")(type "KiCad")(uri "C:/Projects/wch-kicad-lbr/symbols/wch-usb-uart.kicad_sym")(options "")(descr ""))
+)
